@@ -50,14 +50,6 @@ Estudiante de ingeniería en software apasionado por crear soluciones digitales 
 
 ---
 
-## 📊 GitHub Stats
-
-
-
-
-![FJSaladin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FJSaladin&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FJSaladin&layout=compact&hide_border=true)
-
 
 
 
