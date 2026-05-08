@@ -43,10 +43,10 @@ Estudiante de ingeniería en software apasionado por crear soluciones digitales 
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
 | 🚗 [AutoZone App](https://github.com/FJSaladin/Proyecto-Final---AutoZone) | App móvil para gestión vehicular — mantenimientos, combustible, foro comunitario | Flutter, Dart |
-| 🏠 [SmartRent CRM](https://github.com/FJSaladin/smartrent-crm) | CRM para gestión de propiedades en renta | (agrega tu stack) |
-| 🌤 [SkyWatch RD](https://github.com/FJSaladin/skywatch_rd) | App del clima para República Dominicana | Flutter, Dart |
-| 🧰 [Toolbox App](https://github.com/FJSaladin/toolbox-app) | Conjunto de herramientas de utilidad | (agrega tu stack) |
-| 🏗 [Calculadora Estructural](https://github.com/FJSaladin/Calculadora-Estructural) | Herramienta de cálculo para ingeniería estructural *(en desarrollo)* | (agrega tu stack) |
+| 🏠 [SmartRent CRM](https://github.com/FJSaladin/smartrent-crm) | CRM para gestión de propiedades en renta | React, Node.js, Express MongoDB, Twilio |
+| 🌤 [CieloObs](https://github.com/FJSaladin/skywatch_rd) | App del clima para República Dominicana | Flutter, Dart |
+| 🧰 [Toolbox App](https://github.com/FJSaladin/toolbox-app) | Conjunto de herramientas de utilidad | Flutter, Dart |
+| 🏗 [Calculadora Estructural](https://github.com/FJSaladin/Calculadora-Estructural) | Herramienta de cálculo para ingeniería estructural *(en desarrollo)* | React, Vite, TailwindCSS |
 
 ---
 
