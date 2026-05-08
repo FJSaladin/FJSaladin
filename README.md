@@ -5,8 +5,7 @@
 
 **Full Stack Developer · Dominican Republic 🇩🇴**
 
-Estudiante de ingeniería en software apasionado por crear soluciones digitales completas — desde interfaces modernas hasta APIs robustas. Actualmente buscando mi primera pasantía como desarrollador.
-
+Estudiante de Desarrollo de software apasionado por crear soluciones digitales completas.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fausto-jos%C3%A9-arredondo-saladin-350947232/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:faustojoseas@gmail.com)
 
